@@ -1,0 +1,14 @@
+{
+    "name": "gilde/redivivus",
+    "description": "Projeto tcc",
+    "type": "project",
+    "require": {
+        "monolog/monolog": "^2.9"
+    },
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "App\\Redivivus\\": "src/"
+        }
+    }
+}
